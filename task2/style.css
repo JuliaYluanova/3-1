@@ -1,0 +1,12 @@
+p {
+    background-color: rgb(48, 30, 93);
+}
+
+h2 {
+    font-style: oblique;
+    text-decoration: underline;
+}
+
+code {
+    font-family: 'Times New Roman', Times, serif;
+}

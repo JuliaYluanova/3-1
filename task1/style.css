@@ -1,0 +1,11 @@
+p {
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(45, 224, 13);
+    padding: 10px;
+    font-weight: bolder;
+}
+
+h2 {
+    font-style: oblique;
+    text-decoration: underline;
+}
